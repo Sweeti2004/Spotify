@@ -31,6 +31,7 @@ A sleek and responsive **Spotify Clone** built using **React.js** and **Tailwind
 
 ---
 ✨ Future Improvements
+
 🔁 Add song progress bar with seek control
 
 🔊 Add volume control
